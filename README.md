@@ -1,9 +1,9 @@
 <!-- 🌟 BEAUTIFUL C++ PROJECT README 🌟 -->
 <p align="center">
-  <img src="https://img.youtube.com/vi/wVYKG_ch4yM/maxresdefault.jpg" width="80%" alt="Project Demo Thumbnail">
+  <img src="https://www.google.com/imgres?q=TETRIS&imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F61M3rDwh4qL.png&imgrefurl=https%3A%2F%2Fwww.amazon.in%2FTetris-Online-Inc%2Fdp%2FB00HAOGSYG&docid=ZGIwDftXADeuDM&tbnid=9ILqwcDnEAzPqM&vet=12ahUKEwitrs_yk4uQAxWbdvUHHShnNgoQM3oECBkQAA..i&w=512&h=512&hcb=2&ved=2ahUKEwitrs_yk4uQAxWbdvUHHShnNgoQM3oECBkQAA">
 </p>
 
-<h1 align="center">💫 PROJECT NAME 💫</h1>
+<h1 align="center">💫 2-D TETRIS USING RAYLIB(CPP) 💫</h1>
 <p align="center">
   <em>A sleek and powerful C++ project — combining logic, creativity, and performance!</em>
 </p>
