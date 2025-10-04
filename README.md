@@ -1,6 +1,6 @@
 <!-- 🌟 BEAUTIFUL C++ PROJECT README 🌟 -->
 <p align="center">
-  <img src="https://www.google.com/imgres?q=TETRIS&imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F61M3rDwh4qL.png&imgrefurl=https%3A%2F%2Fwww.amazon.in%2FTetris-Online-Inc%2Fdp%2FB00HAOGSYG&docid=ZGIwDftXADeuDM&tbnid=9ILqwcDnEAzPqM&vet=12ahUKEwitrs_yk4uQAxWbdvUHHShnNgoQM3oECBkQAA..i&w=512&h=512&hcb=2&ved=2ahUKEwitrs_yk4uQAxWbdvUHHShnNgoQM3oECBkQAA">
+  <img src="https://store-images.s-microsoft.com/image/apps.43965.14293896566208941.43b748ee-f8d7-499a-a6f3-0f017a95586c.6fd5d254-9eb0-4854-9f97-de2c2ee6ab06">
 </p>
 
 <h1 align="center">💫 2-D TETRIS USING RAYLIB(CPP) 💫</h1>
@@ -198,7 +198,6 @@ You are free to use, modify, and distribute it with attribution.
 ## 🙏 Acknowledgments
 
 Special thanks to:
-- 🎬 [YouTube Inspiration](https://youtu.be/wVYKG_ch4yM?si=O-uk4J1-WsoNzI5A)  
 - 💻 All C++ learners and open-source contributors  
 - 🧠 Mentors and professors for continuous guidance  
 
