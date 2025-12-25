@@ -9,7 +9,6 @@
 </p>
 
 <p align="center">
-  <a href="https://youtu.be/wVYKG_ch4yM?si=O-uk4J1-WsoNzI5A"><img src="https://img.shields.io/badge/🎥-Watch_Demo-red?style=for-the-badge" /></a>
   <img src="https://img.shields.io/badge/Language-C++-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Version-1.0-lightgrey?style=for-the-badge" />
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" />
