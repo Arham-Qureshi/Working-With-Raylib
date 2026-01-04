@@ -1,9 +1,9 @@
-<!-- 🌟 BEAUTIFUL C++ PROJECT README 🌟 -->
+<!--BEAUTIFUL C++ PROJECT README -->
 <p align="center">
   <img src="https://store-images.s-microsoft.com/image/apps.43965.14293896566208941.43b748ee-f8d7-499a-a6f3-0f017a95586c.6fd5d254-9eb0-4854-9f97-de2c2ee6ab06">
 </p>
 
-<h1 align="center">💫 2-D TETRIS USING RAYLIB(CPP) 💫</h1>
+<h1 align="center">2-D TETRIS USING RAYLIB(CPP)</h1>
 <p align="center">
   <em>A sleek and powerful C++ project — combining logic, creativity, and performance!</em>
 </p>
@@ -16,36 +16,36 @@
 
 ---
 
-## 🌈 Table of Contents
-1. [📘 Overview](#-overview)
-2. [🚀 Features](#-features)
-3. [⚙️ Installation & Compilation](#️-installation--compilation)
-4. [🧩 Usage](#-usage)
-5. [🧠 Working Principle](#-working-principle)
-6. [🧱 Architecture](#-architecture)
-7. [🌟 Screenshots / Demo](#-screenshots--demo)
-8. [🗺️ Roadmap](#️-roadmap)
-9. [💬 Contributing](#-contributing)
-10. [📄 License](#-license)
-11. [🙏 Acknowledgments](#-acknowledgments)
+## Table of Contents
+1. [Overview](#-overview)
+2. [Features](#-features)
+3. [Installation & Compilation](#️-installation--compilation)
+4. [Usage](#-usage)
+5. [Working Principle](#-working-principle)
+6. [Architecture](#-architecture)
+7. [Screenshots / Demo](#-screenshots--demo)
+8. [Roadmap](#️-roadmap)
+9. [Contributing](#-contributing)
+10. [License](#-license)
+11. [Acknowledgments](#-acknowledgments)
 
 ---
 
-## 📘 Overview
+## Overview
 
 > “Clean logic, elegant design — the essence of C++.”  
 
 This project implements a robust and efficient C++ solution inspired by the referenced video (excluding the musical segment).  
 It focuses on **clarity, modular programming, and real-world application design**.  
 
-**🎯 Objective:**  
+**Objective:**  
 To build a high-quality C++ project with structured classes, optimized code, and easy readability.
 
 ---
 
-## 🚀 Features
+## Features
 
-| 🌟 Feature | 💬 Description |
+| Feature | Description |
 |-------------|----------------|
 | **OOP Concepts** | Utilizes classes, inheritance, polymorphism, and encapsulation. |
 | **Friend Functions** | Demonstrates inter-class communication securely. |
@@ -53,7 +53,7 @@ To build a high-quality C++ project with structured classes, optimized code, and
 | **File Handling** | Reads and writes structured data efficiently. |
 | **Error Handling** | Safe execution with exception handling techniques. |
 
-> 🧡 *Built with clean code practices and strong logical flow.*
+> *Built with clean code practices and strong logical flow.*
 
 ---
 
@@ -75,24 +75,14 @@ g++ main.cpp -o main
 ./main
 ```
 
-> 💡 You can replace `main.cpp` with your actual source file name.  
-> On Windows (MinGW): use `g++ main.cpp -o main.exe` and run `main`.
 
----
 
-## 🧩 Usage
+## Usage
 
 Once compiled, run the executable in your terminal or IDE:
 
 ```bash
 ./main
-```
-
-🖥️ **Example Output:**
-```
-Enter your choice: 1
-Displaying record...
-Data saved successfully!
 ```
 
 **Try this:**  
@@ -102,7 +92,7 @@ Data saved successfully!
 
 ---
 
-## 🧠 Working Principle
+## Working Principle
 
 This project is based on **Object-Oriented Programming** principles.
 
@@ -115,11 +105,8 @@ User Input → Object Creation → Function Calls → Output Display
 - **Virtual Function:** Allows overriding and dynamic behavior  
 - **Main Function:** Controls program flow and interaction  
 
-🎯 The **music section from the original video** was skipped for a cleaner and technical focus.
 
----
-
-## 🧱 Architecture
+## Architecture
 
 ```plaintext
 |-- include/
@@ -127,12 +114,11 @@ User Input → Object Creation → Function Calls → Output Display
 |-- src/
 |   |-- main.cpp
 |   |-- module.cpp
-|-- data/
-|   |-- sample.txt
+        |--(smaller components)
 |-- README.md
 ```
 
-### 💎 Core Components
+### Core Components
 - **Header Files:** Contain class declarations and prototypes  
 - **Source Files:** Contain definitions and main logic  
 - **Data Files:** Used for input/output operations  
@@ -140,23 +126,14 @@ User Input → Object Creation → Function Calls → Output Display
 
 ---
 
-## 🌟 Screenshots / Demo
+## Roadmap
 
-| Section | Description |
-|----------|--------------|
-| 💻 **Main Menu** | Displays user options |
-| 🧮 **Processing Screen** | Shows logic execution |
-| 📊 **Output Display** | Final results or computed values |
-
-
-## 🗺️ Roadmap
-
-✅ Completed:
+Completed:
 - Base logic implementation  
 - Core OOP design  
 - Friend & virtual functions  
 
-🕒 Upcoming:
+Upcoming(may be :/):
 - Add GUI interface using Qt or SFML  
 - Improve file handling performance  
 - Add user authentication system  
@@ -164,9 +141,9 @@ User Input → Object Creation → Function Calls → Output Display
 
 ---
 
-## 💬 Contributing
+## Contributing
 
-We welcome contributions from fellow C++ enthusiasts 💻  
+We welcome contributions from fellow C++ enthusiasts 
 
 1. **Fork** this repository  
 2. **Create** your feature branch  
@@ -187,18 +164,13 @@ We welcome contributions from fellow C++ enthusiasts 💻
 
 ---
 
-## 📄 License
 
-This project is licensed under the **MIT License**.  
-You are free to use, modify, and distribute it with attribution.
 
----
-
-## 🙏 Acknowledgments
+## Acknowledgments
 
 Special thanks to:
-- 💻 All C++ learners and open-source contributors  
-- 🧠 Mentors and professors for continuous guidance  
+- Huge dev environment of CPP and Nerds
+- Mentors and professors for continuous guidance  
 
 ---
 
@@ -207,5 +179,5 @@ Special thanks to:
 </p>
 
 <p align="center">
-  <b>Made with ❤️ using C++ and a lot of logic.</b>
+  <b>Made with fun and brainstorm using C++ and a lot of logic.</b>
 </p>
